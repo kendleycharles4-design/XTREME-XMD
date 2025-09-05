@@ -27,7 +27,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group
 ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
-MENTION_REPLY: process.env.MENTION_REPLY || "false",
+MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/mry39g.jpg",
 // add custom menu and mention reply image url
@@ -50,7 +50,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "50944543940",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴘʀɪɴᴄᴇ",
+OWNER_NAME: process.env.OWNER_NAME || "MR_HOMMIE",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
